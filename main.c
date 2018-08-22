@@ -19,7 +19,7 @@ int main(){
 
 	int score_player_1 = 0;
 	int score_player_2 = 0;
-
+	printf("hello git test");
 
 
 	gameobject_t player = create_gameObject(setup.rend, "resources/pong1.png", 100, 200);
